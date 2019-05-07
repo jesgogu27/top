@@ -5,9 +5,10 @@ body {
       background-attachment: fixed;
       background-position: center center;
       margin: none;
-      padding: 200px;
+      padding: 0px;
       color: white;
       font-family: 'Roboto', sans-serif;
+      overflow: hidden;
 }
     
 
